@@ -1,0 +1,31 @@
+body{
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+.fun-text{
+    color: darkred;
+}
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: aqua;
+    align-items: center;
+    z-index: 9;
+
+}
+header nav{
+    display: table;
+    margin: 0 auto;
+}
+header li{
+    display: inline-block;
+}
+section form{
+    position: relative;
+    margin: 0 auto;
+    padding-top: 200px;
+    text-align: center;
+}
+
