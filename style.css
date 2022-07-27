@@ -15,6 +15,7 @@ header{
     z-index: 9;
 
 }
+
 header nav{
     display: table;
     margin: 0 auto;
@@ -27,5 +28,17 @@ section form{
     margin: 0 auto;
     padding-top: 200px;
     text-align: center;
+}
+section img{
+    align-content: center;
+    width: 100%;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+
 }
 
